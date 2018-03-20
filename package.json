@@ -1,0 +1,22 @@
+{
+  "name": "portfoliosite-alexacash",
+  "version": "1.0.0",
+  "description": "Alexa Cash Portfolio Site",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-watch": "^5.0.0",
+    "jquery": "^3.3.1",
+    "postcss-mixins": "^6.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.1.0",
+    "postcss-import": "^11.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexa cash",
+  "license": "ISC"
+}
