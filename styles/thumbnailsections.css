@@ -1,0 +1,20 @@
+.thumbnail-link {
+	float: center;
+	display: block;
+	max-width: 50%;
+	padding-top: 50px;
+	margin: auto;
+	position: relative;
+}
+
+.thumbnail-link-projects {
+	width: 500px;
+	height: 380px;
+	align-items: center;
+}
+
+
+
+
+
+

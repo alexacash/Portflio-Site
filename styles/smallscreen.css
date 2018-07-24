@@ -8,15 +8,51 @@
 	width: 100%;
 	padding-top: 20px;
 	margin-left: 15px;
+}
 
+.about-me {
+	border:#A9A9A9 solid 6px;
+	}
+
+#h2whatcanido {
+	font-size: 30px;
+}
+
+
+.thumbnail-link {
+	float: left;
+	display: block;
+	max-width: 100%;
+	padding-top: 30px;
+	margin: auto;
+	position: relative;
 }
 
 
 .row-4 {
-	display: center ;
+	display: center;
 	width: 100%;
 	margin-bottom: 40px;
+	margin-left: -1px;
 
 }
 
 
+body {
+		background: fixed no-repeat url('https://img.etsystatic.com/il/de2150/1315979919/il_fullxfull.1315979919_72k4.jpg');
+		background-position: center;
+}
+
+#smallscreen-email {
+	margin-right: 20px;
+	margin-left: 100px;
+	margin-top: -0px;
+	float: left;
+}
+
+.footer-icon {
+	display: inline-block;
+	text-align: center;
+	margin-top: -30px;
+	margin-left: 40px;
+}

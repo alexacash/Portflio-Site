@@ -1,0 +1,69 @@
+.about-me {
+	border:#A9A9A9 solid 6px;
+	font-family: 'Stint Ultra Expanded', cursive;
+	font-weight: 600;
+	text-align: center;
+	margin:100px;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);	
+}
+
+
+#about-me-text {
+	margin: 10%; /* 80px 200px 80px 200px; */
+	line-height: 2.5rem;
+}
+
+.aboutmehr {
+	max-width: 5%;
+    border-top: 1px solid pink;
+
+}
+
+#teal {
+	color: #003434;
+}
+
+
+#firstp {
+	padding-top: 10px;
+}
+
+#heywhatsup {
+	padding-bottom: 10px;
+	text-decoration:;
+	font-weight: 700;
+}
+
+@media screen and (max-width: 800px) {
+   .about-me {
+	border:#A9A9A9 solid 6px;
+	font-family: 'Stint Ultra Expanded', cursive;
+	font-weight: 600;
+	text-align: center;
+	margin:40px;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);	
+	}
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+      .about-me {
+	border:pink solid 6px;
+	font-family: 'Stint Ultra Expanded', cursive;
+	font-weight: 600;
+	text-align: center;
+	margin:40px;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);	
+	}
+
+	#about-me-text {
+	margin: 18px;
+	line-height: 2rem;
+}
+}

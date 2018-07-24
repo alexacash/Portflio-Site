@@ -5,6 +5,10 @@
 	background-repeat:no-repeat
 }
 
+body {
+		background: fixed no-repeat url('https://img.etsystatic.com/il/de2150/1315979919/il_fullxfull.1315979919_72k4.jpg');
+}
+
 #content {
 	text-align: center;
 	padding-top: 25%;
